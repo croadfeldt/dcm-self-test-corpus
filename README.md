@@ -119,8 +119,7 @@ Dimension values are constrained. Valid values as of schema v1.0:
   human_escalation_required | governance_matrix_enforcement |
   recovery_policy`
 - **provider_landscape**: `single_eligible | multiple_eligible |
-  none_eligible | peer_dcm_required | meta_provider_composed |
-  process_provider | mixed`
+  none_eligible | peer_dcm_required | process_provider | mixed`
 - **governance_context**: `no_governance | standard_governance |
   audit_heavy | compliance_gated | sovereignty_enforced`
 - **failure_mode**: `happy_path | provider_failure | policy_violation |
